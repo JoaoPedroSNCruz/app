@@ -69,7 +69,7 @@ export function Header() {
       <div className="flex items-center gap-3">
         <div className="flex flex-col items-end gap-0.5">
           <span className="text-sm font-medium">João Cruz</span>
-          <span className="text-xs text-zinc-400">devjpcruz@gmail.com</span>
+          <span className="text-xs text-zinc-400">jpsncruz@gmail.com</span>
         </div>
         <img
           src="https://github.com/JoaoPedroSNCruz.png"
